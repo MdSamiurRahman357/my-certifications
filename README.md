@@ -20,7 +20,7 @@ This certificate validates my ability to:
 ## 📌 HTML Certificate  
 **Issued by:** Sololearn  
 **Issued on:** [Add Date Here]  
-**Credential File:** [View Certificate](./sololearn-html-certificate.pdf)  
+**Credential File:** [View Certificate](sololearn-html-certificate.pdf) 
 
 This certificate validates my understanding of **HTML5**, including:  
 - Structuring web pages  
