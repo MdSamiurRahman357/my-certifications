@@ -7,7 +7,7 @@ This repository contains my professional certifications that highlight my learni
 ## 📌 Responsive Web Design Certification  
 **Issued by:** FreeCodeCamp  
 **Issued on:** August 16, 2025  
-**Credential ID:** [View Certificate] (https://mdsamiurrahman357.github.io/my-certifications/)
+**Credential ID:** [View Certificate] (https://freecodecamp.org/certification/mdsamiurrahman/responsive-web-design)
 
 ![Responsive Web Design Certificate](./responsive-web-design-certificate.png)
 
